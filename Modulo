@@ -1,0 +1,18 @@
+PUSH 0x16
+PUSH 0x05
+
+CALL modulo
+POP A
+HLT
+
+modulo:
+POP D
+POP B
+POP C
+MOV A, C
+DIV B
+MUL B
+SUB C, A
+PUSH C
+PUSH D
+RET
