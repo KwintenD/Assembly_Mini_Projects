@@ -1,3 +1,6 @@
+;If you use a byte for every number in a date you wil need 24 bits. But not every byte will be used optimal.
+;In this example we will store a date in 16 bits with minimal bitt loss.
+
 JMP start
 
 ;day -> max 31 -> 5 bits
