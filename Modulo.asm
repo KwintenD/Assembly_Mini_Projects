@@ -1,4 +1,4 @@
-; Calculate modulo
+;Calculate modulo
 
 PUSH 0x16
 PUSH 0x05
