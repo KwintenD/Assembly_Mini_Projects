@@ -1,7 +1,7 @@
 JMP start
 
 sentence:
-DB "Dit is een test zin."
+DB "Is dit een geheime zin??"
 DB 0x00
 
 start:
