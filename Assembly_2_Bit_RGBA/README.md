@@ -2,7 +2,7 @@
 Get a 2 bit red, green, blue, alpha channels out of a byte
 
 ## Output
-![Output image](https://github.com/KwintenD/Assembly_2_Bit_RGBA/blob/main/Output.png)
+![Output image](https://github.com/KwintenD/Assembly_Mini_Projects/blob/main/Assembly_2_Bit_RGBA/Output.png)
 
 ## Use
 1. Copy the code from the source file.
